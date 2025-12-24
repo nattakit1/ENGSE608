@@ -64,6 +64,9 @@ showInfo() ให้แสดงเพิ่มว่าเป็น “สิ�
 
 <img width="385" height="483" alt="image" src="https://github.com/user-attachments/assets/c21b4f8c-f91a-412e-9dcb-07cac5de83cb" />
 
+# ----------------------
+ณัฐกิตต์ แก้วคำยศ
+
 
 
 
