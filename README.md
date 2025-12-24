@@ -48,4 +48,22 @@ showInfo() ให้แสดงเพิ่มว่าเป็น “สิ�
 เพิ่มสต็อก +50
 ทดลองตั้งราคาเป็นค่าติดลบแล้วต้อง “ถูกป้องกัน”
 ถ้า stock ยังไม่กำหนด ให้แสดงข้อความแทน null
+# -----------------------------------
+# -----------------------------------
+
+<img width="636" height="804" alt="image" src="https://github.com/user-attachments/assets/1c457011-ef30-45e7-8955-9d384070a034" />
+
+<img width="476" height="589" alt="image" src="https://github.com/user-attachments/assets/88a29d79-a5bc-4e06-af77-ad604d5ff12e" />
+
+<img width="712" height="747" alt="image" src="https://github.com/user-attachments/assets/a5bfba4f-3a08-4377-9971-b497acf1c23f" />
+
+<img width="872" height="463" alt="image" src="https://github.com/user-attachments/assets/8aaf25f4-4e87-4061-b255-8ac980635dcc" />
+
+# ------------------------------------
+# ผลลัพธ์
+
+<img width="385" height="483" alt="image" src="https://github.com/user-attachments/assets/c21b4f8c-f91a-412e-9dcb-07cac5de83cb" />
+
+
+
 
